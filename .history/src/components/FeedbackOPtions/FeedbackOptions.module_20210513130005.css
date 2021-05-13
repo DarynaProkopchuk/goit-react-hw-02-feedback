@@ -1,0 +1,14 @@
+.btn {
+  padding: 5px 15px;
+  font-size: 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.btn:not(:last-child) {
+  margin-right: 30px;
+}
+.btn:hover {
+  background-color: greenyellow;
+  box-shadow: 10px 5px 5px rgb(224, 189, 13);
+}

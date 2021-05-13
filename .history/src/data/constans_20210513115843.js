@@ -1,0 +1,1 @@
+export const Feedback_OPTIONS =['good','neuteral','bad']
